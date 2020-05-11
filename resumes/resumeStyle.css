@@ -1,0 +1,49 @@
+html {
+  font-size: 14px;
+  font-family: arial;
+}
+
+.header {
+  text-align: center;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+
+.vHeader {
+  text-align: right;
+  font-family: monospace;
+}
+
+span {
+  font-weight: bold;
+}
+
+img {
+  align-items: left;
+}
+
+.flexContainer,  .flexContainer1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flexContainer>div {
+  margin: 10px;
+  /* padding: 20px; */
+}
+ .hr1 {
+
+ }
+ ul {
+   list-style: none;
+   padding-left: 3px;
+ }
+ pre {
+   font-family: arial;
+ }
